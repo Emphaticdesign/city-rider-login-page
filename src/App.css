@@ -2,6 +2,34 @@
   text-align: center;
 }
 
+.form-filed{
+  width: 350px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  text-align: center;
+  margin:20px 0 0 500px;
+}
+.form-filed input{
+  height: 20px;
+  border: none;
+  border-bottom: 1px solid gray;
+  margin: 5px;
+  width: 260px;
+}
+.form-filed-button{
+  background-color: tomato;
+  width: 270px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 700;
+  color: white;
+}
+.form-filed a{
+  color: tomato;
+  text-decoration: none;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
